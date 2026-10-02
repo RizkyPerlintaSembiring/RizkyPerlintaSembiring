@@ -3,13 +3,14 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rizkyperlintasembiring&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-👨‍💻 About Me
-🎓 Undergraduate Informatics Engineering student at Telkom University Purwokerto
-📊 Into Data Analysis — exploring data with Python
-🎨 Into Web Design — crafting clean interfaces with HTML/CSS & Figma
-🌱 Currently learning: Laravel
-🤝 Open to collaboration on data or web projects
-📫 Connect with Me
+### 👨‍💻 About Me
+
+- 🎓 Undergraduate Informatics Engineering student at **Telkom University Purwokerto**
+- 📊 Into **Data Analysis** — exploring data with Python
+- 🎨 Into **Web Design** — crafting clean interfaces with HTML/CSS & Figma
+- 🌱 Currently learning: `Laravel`
+- 🤝 Open to collaboration on data or web projects
+
 <p align="left">
   <a href="https://www.linkedin.com/in/rizky-perlinta-sembiring-8248b22b4" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
