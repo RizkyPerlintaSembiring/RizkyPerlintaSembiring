@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizky Perlinta Sembiring</h1>
-<h3 align="center">Informatics Engineering student at Telkom University Purwokerto, passionate about <b>Data Analysis</b> and <b>Web Design</b> turning data into insights and ideas into clean, functional interfaces.</h3>
+<h3 align="center">Informatics Engineering student at Telkom University Purwokerto, passionate about <b>Data Analysis</b> and <b>Web Design</b> .turning data into insights and ideas into clean, functional interfaces.</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rizkyperlintasembiring&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
